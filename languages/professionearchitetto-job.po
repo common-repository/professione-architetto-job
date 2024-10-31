@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: professioneArchitetto Job\n"
+"POT-Creation-Date: 2017-05-19 09:56+0200\n"
+"PO-Revision-Date: 2017-05-19 09:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: professionearchitetto-job.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: professionearchitetto-job.php:28
+msgid "Le opportunità di lavoro pubblicate su professione Architetto"
+msgstr "Le opportunità di lavoro pubblicate su professione Architetto"
+
+#: professionearchitetto-job.php:83
+msgid "Inserisci un titolo per il widget (opzionale):"
+msgstr "Inserisci un titolo per il widget (opzionale):"
+
+#: professionearchitetto-job.php:85
+msgid "Indica la regione di interesse:"
+msgstr "Indica la regione di interesse:"
+
+#: professionearchitetto-job.php:94
+msgid "Quanti annunci mostrare?"
+msgstr "Quanti annunci mostrare?"
+
+#: professionearchitetto-job.php:103
+msgid "Mostrare il dettaglio?"
+msgstr "Mostrare il dettaglio?"
+
+#: professionearchitetto-job.php:105
+msgid "Mostrare la data di pubblicazione?"
+msgstr "Mostrare la data di pubblicazione?"
+
+#: professionearchitetto-job.php:106
+msgid "Il testo da mostrare se non ci sono articoli:"
+msgstr "Il testo da mostrare se non ci sono articoli:"
+
+#: professionearchitetto-job.php:141
+msgid ""
+"An error has occurred, which probably means the feed is down. Try again "
+"later."
+msgstr ""
+"Si è verificato un errore. Probabilmente il feed non è online. Riprova più "
+"tardi."
+
+#: professionearchitetto-job.php:156
+msgid "Untitled"
+msgstr "Senza titolo"
+
+#. Plugin Name of the plugin/theme
+msgid "professioneArchitetto Job"
+msgstr "professioneArchitetto Job"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.professionearchitetto.it/banner/"
+msgstr "https://www.professionearchitetto.it/banner/"
+
+#. Description of the plugin/theme
+msgid "Le opportunità di lavoro pubblicate su professione Architetto."
+msgstr "Le opportunità di lavoro pubblicate su professione Architetto."
+
+#. Author of the plugin/theme
+msgid "redazione professione Architetto"
+msgstr "redazione professione Architetto"
+
+#. Author URI of the plugin/theme
+msgid "https://www.professionearchitetto.it/"
+msgstr "https://www.professionearchitetto.it/banner/"
